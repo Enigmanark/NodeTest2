@@ -1,33 +1,44 @@
 #header {
 	background-color: #ff9400;
-	margin: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
 	width: 75%;
 }
 
 #body {
-	background-color: ivory;
-	margin: auto;
+	background-color: cream;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
 	width: 75%;
 }
 
 #footer {
 	background-color: #ff9400;
-	margin: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 10px;
 	width: 75%;
 }
 
 #nav {
 	text-decoration: none;
+	color: black;
 	font-size: 30pt;
+	padding-left: 10px;
 }
 
-
-
-body {
-	padding: 50px;
-	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
-
-a {
-  color: #00B7FF;
+#content {
+	color: black;
+	font-size: 16pt;
+	text-align: left;
 }
