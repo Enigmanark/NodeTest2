@@ -1,7 +1,31 @@
+#header {
+	background-color: #ff9400;
+	margin: auto;
+	width: 75%;
+}
+
+#body {
+	background-color: ivory;
+	margin: auto;
+	width: 75%;
+}
+
+#footer {
+	background-color: #ff9400;
+	margin: auto;
+	width: 75%;
+}
+
+#nav {
+	text-decoration: none;
+	font-size: 30pt;
+}
+
+
+
 body {
-	background-color: orange;
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	padding: 50px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
